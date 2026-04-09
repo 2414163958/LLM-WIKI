@@ -15,8 +15,6 @@ type: overview
 
 # 知识库总览
 
-> 来源：[[raw/llm-wiki]]、[[anthropics skills]]、[[raw/code-yeongyu oh-my-openagent]]、[[raw/titanwings colleague-skill]]、[[upstash context7]]、[[raw/affaan-m everything-claude-code]]
-
 这是一个个人知识库，基于 LLM Wiki 模式构建。知识库通过 LLM 增量构建和维护，以结构化、互联的 Markdown 文件形式组织知识。
 
 ## 设计理念
