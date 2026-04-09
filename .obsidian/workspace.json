@@ -1,0 +1,224 @@
+{
+  "main": {
+    "id": "3887aad9852df4da",
+    "type": "split",
+    "children": [
+      {
+        "id": "1867fa18da7cfc2d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e1c77097a139d9ec",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9f6a098db446ca0a",
+    "type": "split",
+    "children": [
+      {
+        "id": "2bd975dff80283cd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f2a38ba37f20b264",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "c3bfb14971b59007",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "8975ad55919c1162",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 369.5
+  },
+  "right": {
+    "id": "2814261a57591740",
+    "type": "split",
+    "children": [
+      {
+        "id": "d1aa3f7939ce3196",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "80be87ef55cf03e5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "c5b0baafeecbfeb3",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "81ddcc55b743b921",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Clippings/code-yeongyu oh-my-openagent.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "code-yeongyu oh-my-openagent 的大纲"
+            }
+          },
+          {
+            "id": "6bff3c00723e4586",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "opencode-view",
+              "state": {},
+              "pinned": true,
+              "icon": "opencode-logo",
+              "title": "OpenCode"
+            }
+          },
+          {
+            "id": "37e6f6a2b4da20b9",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 488.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false,
+      "obsidian-local-images-plus:Local Images Plus  0.16.4\r\nLocalize attachments (plugin folder)": false,
+      "opencode-obsidian:OpenCode": false,
+      "obsidian-git:Open Git source control": false,
+      "periodic-notes:Open today": false
+    }
+  },
+  "active": "6bff3c00723e4586",
+  "lastOpenFiles": [
+    "wiki/log.md",
+    "wiki/index.md",
+    "raw/assets/023e4a085403230fbce5be974a9cc098_MD5.jpg",
+    "raw/upstash context7.md",
+    "raw/Vinzent03 obsidian-git.md",
+    "wiki/sources/Agent Skills - 摘要.md",
+    "wiki/sources/How I use Obsidian - 摘要.md",
+    "wiki/entities/GitSync.md",
+    "wiki/entities/Vinzent03.md",
+    "wiki/entities/obsidian-git.md",
+    "wiki/sources/obsidian-git - 摘要.md",
+    "raw/assets/7c43e6d6084d131f6b5abc84dbd587a1_MD5.png",
+    "raw/assets/abf0484286aace0820f75e9ce80d0795_MD5.png",
+    "raw/assets/9c80f10276fb4bd17dd9b975945f19fb_MD5.png",
+    "raw/assets/54263e1e6221a8700d5b5a77f690bf82_MD5.png",
+    "raw/anthropics skills.md",
+    "wiki/entities/Upstash.md",
+    "wiki/entities/Superpowers.md",
+    "wiki/entities/Steph Ango.md",
+    "raw/kepano obsidian-skills.md",
+    "wiki/entities/qmd.md",
+    "wiki/entities/Prime Radiant.md",
+    "wiki/entities/OpenSpec.md",
+    "wiki/entities/OpenCode.md",
+    "wiki/entities/OpenClaw.md",
+    "wiki/entities/oh-my-openagent.md",
+    "wiki/entities/Obsidian.md",
+    "raw/llm-wiki.md]] [[raw/How I use Obsidian.md]] [[raw/mtymek opencode-obsidian.md",
+    "raw/llm-wiki.md]] [[raw/How I use Obsidian.md]] [[raw",
+    "raw/llm-wiki.md]] [[raw",
+    "wiki/entities/Netlify.md",
+    "wiki/entities/Minimal.md",
+    "wiki/entities/Marp.md",
+    "raw/assets/d90884254ea8793c1905188e3a0aadba_MD5.svg",
+    "raw/assets/d2b9412dccf110e78ad6b466aade6d6b_MD5.png",
+    "raw/assets/3062d51ccd8fdd4e74ef38e055eaf797_MD5.png",
+    "raw/assets/65147f5849073aef4ac2ded2e17d6baa_MD5.png",
+    "raw/assets/955559385f0773c47c5dcf3b2d79a312_MD5.png",
+    "wiki/analysis",
+    "wiki/sources",
+    "wiki/entities",
+    "wiki/concepts",
+    "wiki",
+    "raw/assets",
+    "raw",
+    "Daily/2026/04"
+  ]
+}
