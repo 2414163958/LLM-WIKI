@@ -26,13 +26,15 @@ ssh-keygen -t rsa -b 4096 -C "your_email@example.com"
 
 ## 二、将公钥上传到服务器
 
-### 方法 1：自动上传（推荐）
+### 方法 1：自动上传（Linux/macOS 推荐）
 
-```powershell
+```bash
 ssh-copy-id root@服务器 IP
 ```
 
-### 方法 2：手动上传
+> ⚠️ **注意**：Windows 默认不包含 `ssh-copy-id` 命令。如果在 PowerShell 中执行提示"无法识别该命令"，请使用方法 2 手动上传。
+
+### 方法 2：手动上传（Windows 推荐）
 
 ```powershell
 # 1. 查看公钥内容
@@ -45,10 +47,20 @@ ssh root@服务器 IP
 
 # 4. 在服务器上执行
 mkdir -p ~/.ssh
-echo "粘贴公钥内容" >> ~/.ssh/authorized_keys
+echo "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQC4UOnnMLNnVFovVKWyN8RMJRQLvYI4R/sLDrKsn9K3e+l/nIq709GnhSfhiXBilIUXNNLseYAoVBn/YyGO+VBpZfsf856JciptJyB6PsyRGDvtA1MeNJpZAAxrxBDeaMKdY6VeGN0OQkc8RqlRGtuheDUDpz4UsT96DotGvuF23aFm5P3ZFIcftmw2GU975sdiFOXofKWC6QA19bEErNcGBW1dnvxE9ypPCeGq7TZRWvwhDfdsbZ8Yi3BhWB4cHQFP3hMzkEkQOTv3BMa3RT60IvORWOZ3vxKTVMM3glEps5+S/b0uKDD7WCBLTX2YvpkPlnw18sXElRUijOEb/irW+CWfMZMKtPRwIRwdEr3Rx3ZC/ToeHnIqHWcN4ADmlETt27gsnezDLxbySz5hDQ/g1rIl31JcjZmsuQLLK5mgeJAW3AwWMWGOc6+NeUbzhqAe/rxOnXwLRTwxsnRvNrlxTswKTAgSKjtOxWo8KOnm6zTO3MalcJR1m2gckv2KK38=" >> ~/.ssh/authorized_keys
 chmod 700 ~/.ssh
 chmod 600 ~/.ssh/authorized_keys
 exit
+```
+
+#### 方法 2b：使用 scp 自动上传（Windows 替代方案）
+
+如果你不想手动复制粘贴，可以使用 `scp` 命令：
+
+```powershell
+# 将公钥上传到服务器并自动配置
+scp C:\Users\24141\.ssh\id_rsa.pub root@服务器 IP:/tmp/
+ssh root@服务器 IP "mkdir -p ~/.ssh && cat /tmp/id_rsa.pub >> ~/.ssh/authorized_keys && chmod 700 ~/.ssh && chmod 600 ~/.ssh/authorized_keys && rm /tmp/id_rsa.pub"
 ```
 
 ---
