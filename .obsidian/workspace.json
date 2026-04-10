@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "a94a2774748ef4c6",
+        "id": "624e2bd6cb3c5405",
         "type": "tabs",
         "children": [
           {
-            "id": "fa4a8c0f343e591b",
+            "id": "6144530f40e9383e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "output/SSH 免密登录配置.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "SSH 免密登录配置"
             }
           }
         ]
@@ -146,6 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "output/SSH 免密登录配置.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +160,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "反向链接"
+              "title": "SSH 免密登录配置 的反向链接列表"
             }
           },
           {
@@ -164,11 +169,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "output/SSH 免密登录配置.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "出链"
+              "title": "SSH 免密登录配置 的出链列表"
             }
           }
         ],
@@ -193,8 +199,11 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "6bff3c00723e4586",
+  "active": "6144530f40e9383e",
   "lastOpenFiles": [
+    "output/未命名.md",
+    "output/SSH 免密登录配置.md",
+    "output",
     "wiki/overview.md",
     "wiki/log.md",
     "wiki/index.md",
@@ -226,8 +235,6 @@
     "raw/llm-wiki.md]] [[raw/How I use Obsidian.md]] [[raw/mtymek opencode-obsidian.md",
     "raw/llm-wiki.md]] [[raw/How I use Obsidian.md]] [[raw",
     "raw/llm-wiki.md]] [[raw",
-    "wiki/entities/Netlify.md",
-    "wiki/entities/Minimal.md",
     "raw/assets/d90884254ea8793c1905188e3a0aadba_MD5.svg",
     "raw/assets/d2b9412dccf110e78ad6b466aade6d6b_MD5.png",
     "raw/assets/3062d51ccd8fdd4e74ef38e055eaf797_MD5.png",
@@ -239,7 +246,6 @@
     "wiki/concepts",
     "wiki",
     "raw/assets",
-    "raw",
-    "Daily/2026/04"
+    "raw"
   ]
 }
