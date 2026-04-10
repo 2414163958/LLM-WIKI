@@ -3,7 +3,7 @@ title: SSH 免密登录
 created: 2026-04-10
 updated: 2026-04-10
 sources:
-  - [[raw/SSH 免密登录配置.md]]
+  - [[output/SSH 免密登录配置.md]]
 tags: [SSH, 服务器配置, 运维, 安全, Windows]
 type: concept
 ---

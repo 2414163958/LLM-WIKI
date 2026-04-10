@@ -150,7 +150,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AGENTS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +159,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "AGENTS 的反向链接列表"
+              "title": "反向链接"
             }
           },
           {
@@ -169,12 +168,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AGENTS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "AGENTS 的出链列表"
+              "title": "出链"
             }
           }
         ],
@@ -201,12 +199,14 @@
   },
   "active": "f2a38ba37f20b264",
   "lastOpenFiles": [
+    "output/SSH 免密登录配置.md",
+    "AGENTS.md",
     "wiki/sources/SSH 免密登录配置 - 摘要.md",
     "wiki/concepts/Windows 运维.md",
     "wiki/concepts/服务器配置.md",
     "wiki/concepts/SSH 免密登录.md",
     "raw/SSH 免密登录配置.md",
-    "output/SSH 免密登录配置.md",
+    "raw/SSH 免密登录配置.md",
     "output/未命名.md",
     "output",
     "wiki/overview.md",
@@ -231,8 +231,6 @@
     "wiki/entities/Steph Ango.md",
     "raw/kepano obsidian-skills.md",
     "wiki/entities/qmd.md",
-    "wiki/entities/Prime Radiant.md",
-    "wiki/entities/OpenSpec.md",
     "raw/llm-wiki.md]] [[raw/How I use Obsidian.md]] [[raw",
     "raw/llm-wiki.md]] [[raw",
     "raw/assets/d90884254ea8793c1905188e3a0aadba_MD5.svg",

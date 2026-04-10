@@ -2,7 +2,7 @@
 title: SSH 免密登录配置 - 摘要
 created: 2026-04-10
 updated: 2026-04-10
-source: [[raw/SSH 免密登录配置.md]]
+source: [[output/SSH 免密登录配置.md]]
 tags: [SSH, 服务器配置, 运维, Windows, PowerShell]
 type: source-summary
 ---
@@ -11,7 +11,7 @@ type: source-summary
 
 ## 来源信息
 
-- **原始文档**：[[raw/SSH 免密登录配置.md]]
+- **原始文档**：[[SSH 免密登录配置]]
 - **类型**：操作指南/教程
 - **创建日期**：2026-04-10
 
