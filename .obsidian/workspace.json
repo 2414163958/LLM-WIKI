@@ -141,21 +141,42 @@
             }
           },
           {
-            "id": "9526f724c0d77c72",
+            "id": "5769a2b7cdb2f5a9",
             "type": "leaf",
             "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "反向链接"
+            }
+          },
+          {
+            "id": "caf9283fa0ab2b8d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "出链"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 362.5
+    "width": 467.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -172,7 +193,7 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "f2a38ba37f20b264",
+  "active": "6bff3c00723e4586",
   "lastOpenFiles": [
     "wiki/overview.md",
     "wiki/log.md",
