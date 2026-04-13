@@ -134,3 +134,10 @@
 - 新增概念页面：[[SSH 免密登录]]、[[服务器配置]]、[[Windows 运维]]
 - 更新 index.md（+4 页面，来源数量 → 17）
 
+## [2026-04-13] ingest | hermes-hudui
+- 创建来源摘要：[[hermes-hudui - 摘要]]（重点：13 标签页、WebSocket 实时、4 主题、与 TUI 对比）
+- 新增概念页面：[[HUD UI]]
+- 新增实体页面：[[Hermes]]、[[hermes-hudui]]、[[hermes-hud]]
+- 更新交叉引用：[[TUI]]、[[内存持久化]]
+- 更新 index.md（+5 页面，来源数量 → 18）
+

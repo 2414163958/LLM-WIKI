@@ -40,6 +40,7 @@
 - [[SSH 免密登录]] — SSH 密钥认证实现无密码远程登录
 - [[服务器配置]] — Linux 服务器初始化与安全配置
 - [[Windows 运维]] — Windows 环境下的运维操作指南
+- [[HUD UI]] — 平视显示器界面，实时状态监控仪表盘
 
 ## 实体（entities/）
 
@@ -78,6 +79,9 @@
 - [[Vinzent03]] — obsidian-git 插件维护者
 - [[obsidian-git]] — Obsidian Git 版本控制插件
 - [[GitSync]] — 移动端 Git 同步应用
+- [[Hermes]] — 具有持久记忆的 AI 代理（Nous Research）
+- [[hermes-hudui]] — Hermes 的 Web UI 意识监测器（joeynyc）
+- [[hermes-hud]] — Hermes 的 TUI 意识监测器（joeynyc）
 
 ## 来源摘要（sources/）
 
@@ -97,6 +101,7 @@
 - [[OpenCode README - 摘要]] — OpenCode 官方 README，安装方式、内置 Agent、TUI/LSP（1 个来源）
 - [[Superpowers - 摘要]] — 编码代理技能框架，TDD 工作流、子代理驱动（1 个来源）
 - [[obsidian-git - 摘要]] — Obsidian Git 插件，自动提交同步、版本控制集成（1 个来源）
+- [[hermes-hudui - 摘要]] — Hermes Web UI 监控器，13 标签页、WebSocket 实时、4 主题（1 个来源）
 
 ## 分析与综合（analysis/）
 
@@ -105,6 +110,6 @@
 
 ## 统计
 
-- 总页面数：100（含本页）
-- 来源数量：17
-- 最后更新：2026-04-10
+- 总页面数：105（含本页）
+- 来源数量：18
+- 最后更新：2026-04-13
