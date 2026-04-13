@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiki/log.md",
+                "file": "raw/NousResearch hermes-agent.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "log"
+              "title": "NousResearch hermes-agent"
             }
           }
         ]
@@ -199,9 +199,12 @@
   },
   "active": "72eefe7d5ef33b4f",
   "lastOpenFiles": [
+    "wiki/sources/NousResearch hermes-agent - 摘要.md",
+    "raw/assets/799a7f85a6cd2ee30f64fd9d7763519e_MD5.png",
+    "wiki/log.md",
+    "raw/NousResearch hermes-agent.md",
     "wiki/index.md",
     "wiki/concepts/HUD UI.md",
-    "wiki/log.md",
     "raw/Vinzent03 obsidian-git.md",
     "raw/joeynyc hermes-hudui.md",
     "raw/code-yeongyu oh-my-openagent.md",
@@ -228,8 +231,6 @@
     "raw/upstash context7.md",
     "wiki/sources/Agent Skills - 摘要.md",
     "wiki/sources/How I use Obsidian - 摘要.md",
-    "wiki/entities/GitSync.md",
-    "wiki/entities/Vinzent03.md",
     "raw/assets/7c43e6d6084d131f6b5abc84dbd587a1_MD5.png",
     "raw/assets/abf0484286aace0820f75e9ce80d0795_MD5.png",
     "raw/assets/9c80f10276fb4bd17dd9b975945f19fb_MD5.png",
@@ -237,7 +238,6 @@
     "raw/llm-wiki.md]] [[raw/How I use Obsidian.md]] [[raw",
     "raw/llm-wiki.md]] [[raw",
     "raw/assets/d90884254ea8793c1905188e3a0aadba_MD5.svg",
-    "raw/assets/d2b9412dccf110e78ad6b466aade6d6b_MD5.png",
     "wiki/analysis",
     "wiki/sources",
     "wiki/entities",
