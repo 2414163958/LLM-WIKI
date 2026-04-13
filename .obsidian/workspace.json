@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiki/concepts/HUD UI.md",
+                "file": "wiki/log.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "HUD UI"
+              "title": "log"
             }
           }
         ]
@@ -199,12 +199,12 @@
   },
   "active": "72eefe7d5ef33b4f",
   "lastOpenFiles": [
-    "wiki/log.md",
     "wiki/index.md",
+    "wiki/concepts/HUD UI.md",
+    "wiki/log.md",
     "raw/Vinzent03 obsidian-git.md",
     "raw/joeynyc hermes-hudui.md",
     "raw/code-yeongyu oh-my-openagent.md",
-    "wiki/concepts/HUD UI.md",
     "wiki/entities/hermes-hud.md",
     "wiki/entities/hermes-hudui.md",
     "wiki/entities/Hermes.md",
