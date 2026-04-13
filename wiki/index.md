@@ -102,6 +102,7 @@
 - [[Superpowers - 摘要]] — 编码代理技能框架，TDD 工作流、子代理驱动（1 个来源）
 - [[obsidian-git - 摘要]] — Obsidian Git 插件，自动提交同步、版本控制集成（1 个来源）
 - [[hermes-hudui - 摘要]] — Hermes Web UI 监控器，13 标签页、WebSocket 实时、4 主题（1 个来源）
+- [[NousResearch hermes-agent - 摘要]] — Hermes Agent 自学习 AI 智能体，闭环学习、多平台支持、模型灵活（1 个来源）
 
 ## 分析与综合（analysis/）
 
@@ -110,6 +111,6 @@
 
 ## 统计
 
-- 总页面数：105（含本页）
-- 来源数量：18
+- 总页面数：106（含本页）
+- 来源数量：19
 - 最后更新：2026-04-13

@@ -141,3 +141,8 @@
 - 更新交叉引用：[[TUI]]、[[内存持久化]]
 - 更新 index.md（+5 页面，来源数量 → 18）
 
+## [2026-04-13] ingest | NousResearch hermes-agent
+- 创建来源摘要：[[NousResearch hermes-agent - 摘要]]（重点：闭环学习系统、多平台支持、模型灵活性、从 OpenClaw 迁移）
+- 更新实体页面：[[Hermes]]（补充：自学习特性、安装方式、核心命令）
+- 更新 index.md（+1 页面，来源数量 → 19）
+

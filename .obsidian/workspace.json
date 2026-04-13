@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "dd1410830226f7ef",
+        "id": "f982b30b4afc5546",
         "type": "tabs",
         "children": [
           {
-            "id": "72eefe7d5ef33b4f",
+            "id": "c6f88a63b8318931",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -197,12 +197,13 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "72eefe7d5ef33b4f",
+  "active": "f2a38ba37f20b264",
   "lastOpenFiles": [
+    "raw/obra superpowers.md",
+    "raw/NousResearch hermes-agent.md",
     "wiki/sources/NousResearch hermes-agent - 摘要.md",
     "raw/assets/799a7f85a6cd2ee30f64fd9d7763519e_MD5.png",
     "wiki/log.md",
-    "raw/NousResearch hermes-agent.md",
     "wiki/index.md",
     "wiki/concepts/HUD UI.md",
     "raw/Vinzent03 obsidian-git.md",
@@ -230,7 +231,6 @@
     "raw/assets/023e4a085403230fbce5be974a9cc098_MD5.jpg",
     "raw/upstash context7.md",
     "wiki/sources/Agent Skills - 摘要.md",
-    "wiki/sources/How I use Obsidian - 摘要.md",
     "raw/assets/7c43e6d6084d131f6b5abc84dbd587a1_MD5.png",
     "raw/assets/abf0484286aace0820f75e9ce80d0795_MD5.png",
     "raw/assets/9c80f10276fb4bd17dd9b975945f19fb_MD5.png",
