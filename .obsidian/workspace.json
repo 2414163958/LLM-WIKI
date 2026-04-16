@@ -193,7 +193,8 @@
       "bases:新建数据库": false,
       "obsidian-local-images-plus:Local Images Plus  0.16.4\r\nLocalize attachments (plugin folder)": false,
       "obsidian-git:Open Git source control": false,
-      "opencode-obsidian:OpenCode": false
+      "opencode-obsidian:OpenCode": false,
+      "periodic-notes:Open today": false
     }
   },
   "active": "89fa809e662ea570",
